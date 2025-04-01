@@ -30,7 +30,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="gnc.jpg" alt="GIF Description" class="paper-image">
+    <img src="GNC.jpg" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Adaptive Sliding-Mode Disturbance Observer-Based Nonlinear Control for Unmanned Dual-Arm Aerial Manipulator Subject to State Constraints</p>
@@ -44,7 +44,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="icgnc.jpg" alt="GIF Description" class="paper-image">
+    <img src="ICGNC.jpg" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Nonlinear MPC-Based Gains Auto-Tuning Control for Aerial Transportation System with Double-Pendulum Swing Effects</p>
