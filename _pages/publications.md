@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}-->
 
-You can also find my articles on <a href="https://scholar.google.com.hk/citations?user=0MMaeMEAAAAJ&hl=zh-CN">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.com/citations?user=lm_0RJMAAAAJ&hl=zh-CN&oi=sra">my Google Scholar profile</a>.
 
 
 <head>
@@ -33,58 +33,10 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
     <img src="TASE-2023-2664-video.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
-    <p class="paper-title">Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang* </p>
-    <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 5955-5965, 2025 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10620439">Paper Page</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <div class="media-container">
-    <img src="23-TIE-2613-video.gif" alt="GIF Description" class="paper-image">
-  </div>
-  <div class="info-container">
-    <p class="paper-title">Fault-Tolerant Control for Multirotor Aerial Transportation Systems With Blade Damage</p>
-    <p class="authors"> <b>Hai Yu#</b>, Shizhen Wu, Wei He, Xiao Liang*, Jianda Han, Yongchun Fang </p>
-    <p class="journal"> <b>IEEE Transactions on Industrial Electronics</b>, vol. 71, no. 10, pp. 12718-12731, 2024 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10401260">Paper Page</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <div class="media-container">
-    <img src="TII-22-2015-video.gif" alt="GIF Description" class="paper-image">
-  </div>
-  <div class="info-container">
-    <p class="paper-title">Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform</p>
-    <p class="authors"> <b>Hai Yu#</b>, Xiao Liang*, Jianda Han, Yongchun Fang </p>
-    <p class="journal"> <b>IEEE Transactions on Industrial Informatics</b>, vol. 20, no. 1, pp. 23-37, 2024 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10068260">Paper Page</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <div class="media-container">
-    <img src="2024-TFS-diagram.png" alt="GIF Description" class="paper-image">
-  </div>
-  <div class="info-container">
-    <p class="paper-title">Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect</p>
-    <p class="authors"> <b>Hai Yu#</b>, Yi Chai, Zhichao Yang, Jianda Han, Yongchun Fang, Xiao Liang* </p>
-    <p class="journal"> <b>IEEE Transactions on Fuzzy Systems</b>, vol. 33, no. 2, pp. 621-630, 2025 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10737644">Paper Page</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <div class="media-container">
-    <img src="TII-23-5077-video.gif" alt="GIF Description" class="paper-image">
-  </div>
-  <div class="info-container">
-    <p class="paper-title">Collaborative Control for Aerial Transportation of Cargo With Dual Quadrotors</p>
-    <p class="authors"> Zhuang Zhang#, <b>Hai Yu#</b>, Huiying Ye, Jianda Han, Yongchun Fang, Xiao Liang* </p>
-    <p class="journal"> <b>IEEE Transactions on Industrial Informatics</b>, vol. 21, no. 1, pp. 752-761, 2025 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10704026">Paper Page</a>] </p>
+    <p class="paper-title">Adaptive Sliding-Mode Disturbance Observer-Based Nonlinear Control for Unmanned Dual-Arm Aerial Manipulator Subject to State Constraints</p>
+    <p class="authors"> <b>Bingbing Liu#</b>, <a href="https://u-hai.github.io/">Hai Yu</a>, Shizhen Wu, Xiao Liang*, Yongchun Fang*</p>
+    <p class="journal"> <b>Guidance, Navigation and Control</b>, vol. 03, no. 03, 2350021, 2023 </p>
+    <p class="url"> [<a href="https://www.worldscientific.com/doi/abs/10.1142/S2737480723500218">Paper Page</a>] </p>
   </div>
 </div>
 
@@ -95,22 +47,10 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
     <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
-    <p class="paper-title">Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, Yang Wang, Bingbing Liu, Jianda Han, Yongchun Fang, Xiao Liang* </p>
-    <p class="journal"> <b>IEEE International Conference on Real-time Computing and Robotics (RCAR)</b>, 2024 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <div class="media-container">
-    <img src="2024-ICGNC-pic.png" alt="GIF Description" class="paper-image">
-  </div>
-  <div class="info-container">
-    <p class="paper-title">Enhanced-Coupling Based Nonlinear Control for Aerial Transportation Systems with Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, Shizhen Wu, Xiao Liang*, Yongchun Fang, Jianda Han </p>
-    <p class="journal"> <b>International Conference on Guidance, Navigation and Control (ICGNC)</b>, 2022 </p>
-    <p class="url"> [<a href="https://link.springer.com/chapter/10.1007/978-981-19-6613-2_310">Paper Page</a>] </p>
+    <p class="paper-title">Nonlinear MPC-Based Gains Auto-Tuning Control for Aerial Transportation System with Double-Pendulum Swing Effects</p>
+    <p class="authors"> <b>Bingbing Liu#</b>, <a href="https://u-hai.github.io/">Hai Yu</a>, Wei He, Yongchun Fang, Jianda Han, Xiao Liang*</p>
+    <p class="journal"> <b>International Conference on Guidance, Navigation and Control</b>, 2024 </p>
+    <p class="url"> [<a href="https://link.springer.com/chapter/10.1007/978-981-96-2244-3_44">Paper Page</a>] </p>
   </div>
 </div>
 
