@@ -1,2 +1,2 @@
 # Welcome to my website
-**[Hai Yu](https://u-hai.github.io/)**
+**[Bingbing Liu](https://lbbnk.github.io/)**
